@@ -36,6 +36,4 @@ pages/        index.tsx, pokemon/[id].tsx, 404.tsx, _app.tsx
 styles/       globals.css (Tailwind)
 ```
 
-## Deploy
 
-Push to GitHub and import the repo on [Vercel](https://vercel.com). No environment variables are needed.
